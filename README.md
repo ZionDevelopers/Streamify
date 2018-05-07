@@ -1,6 +1,9 @@
 # Streamify
 Stream any media by torrent.
 
-Requirements
------
-Python 3 OR/AND NodeJS
+Requirement
+---
+[Python 3](https://www.python.org/) 
+Self install
+---
+[NodeJS](https://nodejs.org/en/)
