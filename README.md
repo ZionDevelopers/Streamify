@@ -1,2 +1,2 @@
 # Streamify
-Steam any media by torrent.
+Stream any media by torrent.
