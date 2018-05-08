@@ -1,5 +1,5 @@
 # Streamify
-Stream any media by magnet.
+Stream any video/audio by magnet.
 
 Requirement
 ---------
